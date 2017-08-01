@@ -2,8 +2,8 @@ Meta:
 
 Narrative:
 As a user
-I want to perform an action
-So that I can achieve a business goal
+I want to book a flight
+So that I can travel for my holidays
 
 Scenario: scenario description
 Given a user is on the flight booking application
